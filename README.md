@@ -42,4 +42,5 @@ Passos para executar o projeto:
     
 A seguir segue gif com testes executados em modo headless via console do VScode para melhor entendimento dos comandos.
 
+![Alt Text](https://i.picasion.com/pic91/796188c48934f21328a2eaad80f39754.gif)
 
